@@ -31,7 +31,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="centre">
 <a href="https://github.com/AntareepDey/AntareepDey">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=tokyonight&hide_border=true">
 </a>
