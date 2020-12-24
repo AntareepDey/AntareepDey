@@ -31,6 +31,6 @@
 </a>
 </p>
 
-<p>
+<p align="centre">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=antareepdey&theme=dark&layout=compact&hide_border=true" alt="antareepdey" />
 </p>
