@@ -27,7 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntareepDey&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/AntareepDey/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AntareepDey&repo=convoychat" />
+  <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs?username=antareepdey&show_icons=true&theme=dracula&hide_border=true" />
 </a>
 
 <p>
