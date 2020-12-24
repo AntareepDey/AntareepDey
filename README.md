@@ -34,7 +34,7 @@
 </p>    
 <p align="center">
 <a href="https://github.com/AntareepDey/AntareepDey">
-  <img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=tokyonight&hide_border=true">
+  <img align="centre" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=tokyonight&hide_border=true">
 </a>
   
 </p>
