@@ -25,9 +25,9 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AntareepDey&count_private=true&show_icons=true&theme=tokyonight" height="205">
+<img src="https://github-readme-stats.vercel.app/api?username=AntareepDey&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" height="205">
 <a href="https://github.com/AntareepDey/AntareepDey">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntareepDey&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntareepDey&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=tokyonight&hide_border=true" />
 </a>
 </p>
 
