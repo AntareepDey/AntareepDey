@@ -32,5 +32,5 @@
 </p>
 
 <p align="centre">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=antareepdey&theme=dark&hide_border=true" alt="antareepdey" />
+  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=antareepdey&theme=dark&hide_border=true" alt="antareepdey" width="500" />
 </p>
