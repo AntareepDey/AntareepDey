@@ -31,7 +31,6 @@
   </a>
 </p>
 
-<hr>
 
 <p align="center">
 
