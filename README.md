@@ -35,6 +35,7 @@
 <p align="center">
 
 <a href="https://github.com/AntareepDey/AntareepDey">
+  <br> 
   <img align="centre" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=tokyonight&hide_border=true" height="150" width="500">
 </a>
   
