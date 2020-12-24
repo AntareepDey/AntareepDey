@@ -31,6 +31,8 @@
 </a>
 </p>
 
-<p align="centre">
-  <img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=antareepdey&theme=dark&hide_border=true" alt="antareepdey" width="500" />
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1#version3&theme=tokyonight"/>
+  </a>
 </p>
