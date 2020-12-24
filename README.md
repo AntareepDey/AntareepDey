@@ -26,13 +26,14 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AntareepDey&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" height="205">
-<a href="https://github.com/AntareepDey/AntareepDey">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=tokyonight&hide_border=true">
-</a>
+<a href="https://github.com/AntareepDye/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntareepDey&theme=tokyonight&hide_border=true">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/AntareepDye/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntareepDey&theme=tokyonight&hide_border=true">
-  </a>
+<a href="https://github.com/AntareepDey/AntareepDey">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=tokyonight&hide_border=true">
+</a>
+  
 </p>
