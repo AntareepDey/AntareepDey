@@ -11,13 +11,13 @@
 
 - 💬 Ask me about **Tech**
 
-- 📫 How to reach me: **antareep175@hotmail.com**
+- 📫 How to reach me: **antareep175@hotmail.com** 
 
 - ⚡ Fun fact: **I love to drink coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/antareep dey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="antareep dey" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/antareep dey" target="blank"><img align="center" src="https://img.icons8.com/color/144/000000/youtube-play.png" alt="antareep dey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
