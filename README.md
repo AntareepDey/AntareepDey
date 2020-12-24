@@ -7,13 +7,13 @@
 
 - 🤝 I’m looking for help with **improving my skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AntareepDey?tab=repositories](https://github.com/AntareepDey?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/AntareepDey?tab=repositories](https://github.com/AntareepDey?tab=repositories)
 
 - 💬 Ask me about **Tech**
 
-- 📫 How to reach me **antareep175@hotmail.com**
+- 📫 How to reach me: **antareep175@hotmail.com**
 
-- ⚡ Fun fact **I love to drink coffee**
+- ⚡ Fun fact: **I love to drink coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.icons8.com/fluent/96/000000/adobe-photoshop.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antareepdey&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="antareepdey" /></p>
 
