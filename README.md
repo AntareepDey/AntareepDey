@@ -33,6 +33,6 @@
 
 <p align="center">
   <a href="https://github.com/AntareepDye/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntareepDey&theme=tokyonight"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntareepDey&theme=tokyonight&hide_border=true">
   </a>
 </p>
