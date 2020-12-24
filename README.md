@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AntareepDey&count_private=true&show_icons=true&theme=tokyonight&hide_border=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AntareepDey&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="450">
 <a href="https://github.com/AntareepDye/github-readme-streak-stats">
     <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AntareepDey&theme=tokyonight&hide_border=true">
   </a>
