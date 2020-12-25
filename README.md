@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **improving my skills**
 
-- 👨‍💻 All of my projects are available at: [https://github.com/AntareepDey?tab=repositories](https://github.com/AntareepDey?tab=repositories)
+- 👨‍💻 All of my projects are available at: [here](https://github.com/AntareepDey?tab=repositories)
 
 - 💬 Ask me about **Tech**
 
