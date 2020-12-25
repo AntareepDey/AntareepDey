@@ -33,7 +33,7 @@
 
 <p align="center">
 <a href="https://github.com/AntareepDey/AntareepDey">
-  <img src="https://readme-jokes.vercel.app/api&theme=gothic" alt="Jokes Card" />
+  <img align ="right" src="https://readme-jokes.vercel.app/api" alt="Stats" />
   <img align="left"  height="120" width="500" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=gotham&hide_border=true"/>
 </a> 
 </p>
