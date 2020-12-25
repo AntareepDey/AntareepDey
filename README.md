@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **improving my skills**
 
-- 👨‍💻 All of my projects are available at: [here](https://github.com/AntareepDey?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/AntareepDey?tab=repositories)
 
 - 💬 Ask me about **Tech**
 
@@ -21,25 +21,22 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.icons8.com/fluent/144/000000/adobe-photoshop.png" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.icons8.com/fluent/144/000000/adobe-photoshop.png" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
 <p align="left">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=AntareepDey&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="410">
 <a href="https://github.com/AntareepDye/github-readme-streak-stats">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AntareepDey&theme=tokyonight&hide_border=true" width="400" height="161.5">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AntareepDey&theme=dracula&hide_border=true" width="400" height="161.5">
   </a>
 </p>
 
-<h3 align="left">                                                 </h3>
-<h3 align="left">                                                 </h3>
-<p align="center">
 
+<p align="center">
 <a href="https://github.com/AntareepDey/AntareepDey">
   <br>
   <br>
   <br> 
-  <img align="centre" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=tokyonight&hide_border=true" height="150" width="500"style="margin: 20px 0px 0px 0px;">
-</a>
-  
+  <img align="centre" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=dracula&hide_border=true" height="150" width="500"style="margin: 20px 0px 0px 0px;">
+</a> 
 </p>
