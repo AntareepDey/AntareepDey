@@ -23,9 +23,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>  </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://img.icons8.com/fluent/144/000000/adobe-photoshop.png" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
-<p align="center">
+<p align="left">
 <a href="https://github.com/AntareepDey">
-  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AntareepDey&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AntareepDey&show_icons=true&theme=gotham&hide_border=true&count_private=true"/>
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AntareepDey&theme=gotham&hide_border=true"/>
 </a>
 </p>
