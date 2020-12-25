@@ -31,9 +31,9 @@
 </a>
 </p>
 
-<p align="centre">
+<p align="left">
 <a href="https://github.com/AntareepDey/AntareepDey">
-  <img align="left"  height="120" width="500" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=gotham&hide_border=true"/>
-  <img align="right" height="120" width="400" src="https://readme-jokes.vercel.app/api?&hide_border=true&theme=gotham"/>
-</a> 
+  <img align="left"  height="110" width="500" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=gotham&hide_border=true"/>
+</a>   
+<img align="right" height="140" width="400" src="https://readme-jokes.vercel.app/api?&hide_border=true&theme=gotham&borderColor=false"/>
 </p>
