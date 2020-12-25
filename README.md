@@ -25,9 +25,9 @@
 </p>
 
 <p align="left">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AntareepDey&count_private=true&show_icons=true&theme=dracula&hide_border=true" width="410">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AntareepDey&count_private=true&show_icons=true&theme=gotham&hide_border=true" width="410">
 <a href="https://github.com/AntareepDye/github-readme-streak-stats">
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AntareepDey&theme=dracula&hide_border=true" width="400" height="161.5">
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AntareepDey&theme=gotham&hide_border=true" width="400" height="161.5">
   </a>
 </p>
 
@@ -37,6 +37,6 @@
   <br>
   <br>
   <br> 
-  <img align="centre" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=dracula&hide_border=true" height="150" width="500"style="margin: 20px 0px 0px 0px;">
+  <img align="centre" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=gotham&hide_border=true" height="120" width="500"style="margin: 20px 0px 0px 0px;">
 </a> 
 </p>
