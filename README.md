@@ -33,7 +33,7 @@
 
 <p align="left">
 <a href="https://github.com/AntareepDey/AntareepDey">
-  <img align="right" height="120" width="420" src="https://readme-jokes.vercel.app/api?&hide_border=true&theme=gotham"/>
-  <img align="left"  height="120" width="500" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=gotham&hide_border=true"/>
+  <img align="right" height="120" width="400" src="https://readme-jokes.vercel.app/api?&hide_border=true&theme=gotham"/>
+  <img align="left"  height="120" width="410" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=gotham&hide_border=true"/>
 </a> 
 </p>
