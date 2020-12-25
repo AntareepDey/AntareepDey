@@ -33,9 +33,7 @@
 
 <p align="center">
 <a href="https://github.com/AntareepDey/AntareepDey">
-  <br>
-  <br>
-  <br> 
-  <img align="centre"  height="120" width="500" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=gotham&hide_border=true"/>
+  
+  <img align="left"  height="120" width="500" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=gotham&hide_border=true"/>
 </a> 
 </p>
