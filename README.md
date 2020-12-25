@@ -1,6 +1,6 @@
 <h1 align="center">Hello🌏, I am Antareep Dey</h1>
 <h3 align="center">I am a high school student from India.</h3>
-<img align="right" alt="GIF" src="https://github.com/AntareepDey/AntareepDey/blob/main/unnamed.gif?raw=true" width="500" height="425" />
+<img align="right" alt="GIF" src="https://github.com/AntareepDey/AntareepDey/blob/main/unnamed.gif?raw=true" width="500" height="415" />
 
 - 🔭 I’m currently working on **learning Pyhton**
 
@@ -22,7 +22,7 @@
 <a href="https://www.youtube.com/channel/UClOiHMB9IdiebpEvtVpwRjw" target="blank"><img align="left" src="https://img.icons8.com/color/144/000000/youtube-play.png" alt="antareep dey" height="45" width="45" /><a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img src="https://img.icons8.com/windows/144/fa314a/quora.png" alt="antareep dey" height="45" width="45" />&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://t.me/ANTAREEP_DEY" target="blank"><img src="https://img.icons8.com/color/144/000000/telegram-app--v1.png" alt="antareep dey" height="45" width="45"></a>
 </p>
 
-<h3 align="left">Languages </h3>
+<h3 align="left">Languages: </h3>
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/python.png" alt="python" width="45" height="45"/> </a>
 
 </p>
