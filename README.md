@@ -33,7 +33,7 @@
 
 <p align="left">
 <a href="https://github.com/AntareepDey/AntareepDey">
-  <img align="right"  height="105" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntareepDey&layout=compact&theme=gotham&hide_border=true"/>
+  <img align="right"  height="100" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntareepDey&layout=compact&theme=gotham&hide_border=true"/>
 </a>   
 <img align="left" height="150" width="410" src="https://readme-jokes.vercel.app/api?&hide_border=true&theme=gotham&borderColor=false"/>
 </p>
