@@ -36,6 +36,6 @@
   <br>
   <br>
   <br> 
-  <img align="centre" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=gotham&hide_border=true" height="120" width="500"style="margin: 20px 0px 0px 0px;">
+  <img align="centre"  height="120" width="500" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=AntareepDey&hide=php&theme=gotham&hide_border=true"/>
 </a> 
 </p>
