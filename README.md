@@ -25,8 +25,8 @@
 </p>
 <p align="left">
 <a href="https://github.com/AntareepDey">
-  <img  align="left" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AntareepDey&show_icons=true&theme=gotham&hide_border=true&count_private=true"/>
-  <img align="right" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AntareepDey&theme=gotham&hide_border=true"/>
+  <img  align="left" height="180"  width="410" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AntareepDey&show_icons=true&theme=gotham&hide_border=true&count_private=true"/>
+  <img align="right" height="180"  width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=AntareepDey&theme=gotham&hide_border=true"/>
 </a>
 </p>
 
