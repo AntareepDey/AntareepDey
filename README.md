@@ -1,8 +1,8 @@
 <h1 align="center">Hello🌏, I am Antareep Dey</h1>
 <h3 align="center">I am a high school student from India.</h3>
-<img align="right" alt="GIF" src="https://github.com/AntareepDey/AntareepDey/blob/main/unnamed.gif?raw=true" width="400" height="315" />
+<img align="right" alt="GIF" src="https://github.com/AntareepDey/AntareepDey/blob/main/tenor.gif?raw=true" width="400" height="320" />
 
-- 🔭 I’m currently working on **learning Pyhton**
+- 🔭 I’m currently working on **learning Pyhton**  
 
 - 🌱 I’m currently learning **to code**
 
