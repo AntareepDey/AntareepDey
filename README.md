@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/channel/UClOiHMB9IdiebpEvtVpwRjw" target="blank"><img align="left" src="https://img.icons8.com/color/144/000000/youtube-play.png" alt="antareep dey" height="45" width="45" /><a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img src="https://img.icons8.com/windows/144/fa314a/quora.png" alt="antareep dey" height="45" width="45" />&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://t.me/ANTAREEP_DEY" target="blank"><img src="https://img.icons8.com/color/144/000000/telegram-app--v1.png" alt="antareep dey" height="45" width="45"></a>
+<a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img src="https://img.icons8.com/windows/144/fa314a/quora.png" alt="antareep dey" height="45" width="45" />&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://t.me/ANTAREEP_DEY" target="blank"><img src="https://img.icons8.com/color/144/000000/telegram-app--v1.png" alt="antareep dey" height="45" width="45"></a>
 </p>
 
 <h3 align="left">Languages: </h3>
