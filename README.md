@@ -19,15 +19,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img src="https://img.icons8.com/windows/144/fa314a/quora.png" alt="antareep dey" height="45" width="45" />&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://t.me/ANTAREEP_DEY" target="blank"><img src="https://img.icons8.com/color/144/000000/telegram-app--v1.png" alt="antareep dey" height="45" width="45"></a>
+<a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img src="https://img.icons8.com/windows/144/fa314a/quora.png" alt="antareep dey" height="45" width="45" />&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://t.me/ANTAREEP_DEY" target="blank"><img src="https://img.icons8.com/color/144/000000/telegram-app--v1.png" alt="antareep dey" height="45" width="45">&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://stackoverflow.com/users/16382965/antareep-dey" target="blank"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"></a>
 </p>
 
 <h3 align="left">Languages: </h3>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/python.png" alt="python" width="45" height="45"/> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/python.png" alt="python" width="45" height="45"/> </a>&nbsp&nbsp<a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/markdown.png"> </a>
 
 </p>
 <h3 align="left">Software and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp&nbsp<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp&nbsp<a href="https://www.photoshop.com/en" target="_blank">&nbsp&nbsp<img src="https://img.icons8.com/fluent/144/000000/adobe-photoshop.png" alt="photoshop" width="50" height="50"/>&nbsp&nbsp<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" width="50" height="50"/></a>
+<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/figma.png">&nbsp&nbsp<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp&nbsp<a href="https://www.photoshop.com/en" target="_blank">&nbsp&nbsp<img src="https://img.icons8.com/fluent/144/000000/adobe-photoshop.png" alt="photoshop" width="50" height="50"/>&nbsp&nbsp<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" width="50" height="50"/></a>
 </p>
 
 <p align="centre">
