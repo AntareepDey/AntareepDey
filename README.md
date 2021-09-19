@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="left">Languages: </h3>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/python.png" alt="python" width="45" height="45"/> </a>&nbsp&nbsp<a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/markdown.png"> </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/python.png" alt="python" width="45" height="45"/>&nbsp&nbsp&nbsp&nbsp<a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/markdown.png">&nbsp&nbsp&nbsp&nbsp<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">&nbsp&nbsp&nbsp&nbsp<a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"></a>
 
 </p>
 <h3 align="left">Software and Tools:</h3>
