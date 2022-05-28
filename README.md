@@ -1,6 +1,6 @@
 <h1 align="center">Hello🌏, I am Antareep Dey</h1>
 <h3 align="center">I am a high school student from India.</h3>
-<img align="right" alt="GIF" src="https://github.com/AntareepDey/AntareepDey/blob/main/dp2.gif" width="450" height="320" />
+<img align="right" alt="GIF" src="https://github.com/AntareepDey/AntareepDey/blob/main/dp2.gif" width="400" height="300" />
 
 - 🔭 I’m currently working on **Fun personal projects**  
 
