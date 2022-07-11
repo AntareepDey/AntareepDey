@@ -8,8 +8,6 @@
 
 - 🤝 I’m looking for help with **improving my skills**
 
-- 👨‍💻 All of my projects are available [here](https://github.com/AntareepDey?tab=repositories)
-
 - 💬 Ask me about **Tech**
 
 - 📫 How to reach me: **antareep175@hotmail.com** 
@@ -19,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img src="https://img.icons8.com/windows/144/fa314a/quora.png" alt="antareep dey" height="45" width="45" />&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://t.me/ANTAREEP_DEY" target="blank"><img src="https://img.icons8.com/color/144/000000/telegram-app--v1.png" alt="antareep dey" height="45" width="45">&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://stackoverflow.com/users/16382965/antareep-dey" target="blank"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"></a>
+<a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img src="https://img.icons8.com/windows/144/fa314a/quora.png" alt="antareep dey" height="45" width="45" />&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://t.me/ANTAREEP_DEY" target="blank"><img src="https://img.icons8.com/color/144/000000/telegram-app--v1.png" alt="antareep dey" height="45" width="45">&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://stackoverflow.com/users/16382965/antareep-dey" target="blank"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"></a>&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/antareepdey/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"></a>
 </p>
 
-<h3 align="left">Languages: </h3>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/python.png" alt="python" width="45" height="45"/>&nbsp&nbsp&nbsp&nbsp<a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/markdown.png">&nbsp&nbsp&nbsp&nbsp<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">&nbsp&nbsp&nbsp&nbsp<a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"></a>
+<h3 align="left">Languages and Frameworks: </h3>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/python.png" alt="python" width="45" height="45"/>&nbsp&nbsp&nbsp&nbsp<a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/markdown.png">&nbsp&nbsp&nbsp&nbsp<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">&nbsp&nbsp&nbsp&nbsp<a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"></a><a><img src="https://img.icons8.com/nolan/64/flask.png"/></a>
 
 </p>
 <h3 align="left">Software and Tools:</h3>
