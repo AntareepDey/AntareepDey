@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Tech**
 
-- 📫 How to reach me: **antareep175@hotmail.com** 
-
 - ⚡ Fun fact: **I love pizza**
 
 
