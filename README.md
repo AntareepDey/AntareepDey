@@ -19,7 +19,9 @@
 </p>
 
 <h3 align="left">Languages and Frameworks: </h3>
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/python.png" alt="python" width="45" height="45"/>&nbsp&nbsp&nbsp&nbsp<a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/markdown.png">&nbsp&nbsp&nbsp&nbsp<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">&nbsp&nbsp&nbsp&nbsp<a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"></a><a><img src="https://img.icons8.com/nolan/64/flask.png"/></a>
+<p align="left">
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/python.png" alt="python" width="45" height="45"/>&nbsp&nbsp&nbsp&nbsp<a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/markdown.png">&nbsp&nbsp&nbsp&nbsp<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">&nbsp&nbsp&nbsp&nbsp<a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"></a>&nbsp&nbsp&nbsp&nbsp<a><img src="https://img.icons8.com/nolan/64/flask.png"/></a>
+</p>
 
 </p>
 <h3 align="left">Software and Tools:</h3>
