@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on **Fun personal projects**  
 
-- 🌱 I’m currently learning **to code**
-
-- 🤝 I’m looking for help with **improving my skills**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Tech**
 
