@@ -1,10 +1,10 @@
 <h1 align="center">Hello🌏, I am Antareep Dey</h1>
-<h3 align="center">I'm a college freshmen from India.</h3>
+<h3 align="center">I'm a college Sophomore from India with a CS major.</h3>
 <img align="right" alt="GIF" src="https://github.com/AntareepDey/AntareepDey/blob/main/dp2.gif" width="400" height="300" />
 
 - 🔭 I’m currently working on **Fun personal projects**  
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Computer Science**
 
 - 💬 Ask me about **Tech**
 
