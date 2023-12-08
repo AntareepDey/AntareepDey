@@ -1,10 +1,10 @@
-<h1 align="center">Hello🌏, I am Antareep Dey</h1>
-<h3 align="center">I'm a college Sophomore from India with a CS major </h3>
+<h1 align="center">Hello 🌏, I am Antareep Dey</h1>
+<h3 align="center">I'm a college Sophomore from India majoring in CS </h3>
 <img align="right" alt="GIF" src="https://github.com/AntareepDey/AntareepDey/blob/main/dp2.gif" width="400" height="300" />
 
-- 🔭 I’m currently working on **Fun personal projects**  
+- 🔭 I’m currently working on **Personal projects**  
 
-- 🌱 I’m currently learning **Computer Science**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Tech**
 
@@ -13,12 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img src="https://img.icons8.com/windows/144/fa314a/quora.png" alt="antareep dey" height="45" width="45" />&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://t.me/ANTAREEP_DEY" target="blank"><img src="https://img.icons8.com/color/144/000000/telegram-app--v1.png" alt="antareep dey" height="45" width="45">&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://stackoverflow.com/users/16382965/antareep-dey" target="blank"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"></a>&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/antareepdey/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"></a>
+<a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img src="https://img.icons8.com/windows/144/fa314a/quora.png" alt="antareep dey" height="45" width="45" />&emsp;<a href="https://t.me/ANTAREEP_DEY" target="blank"><img src="https://img.icons8.com/color/144/000000/telegram-app--v1.png" alt="antareep dey" height="45" width="45">&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://stackoverflow.com/users/16382965/antareep-dey" target="blank"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"></a>&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/antareepdey/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"></a>
 </p>
 
 <h3 align="left">Languages and Frameworks: </h3>
 <p align="left">
-<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/144/000000/python.png" alt="python" width="45" height="45"/>&nbsp&nbsp&nbsp&nbsp<a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/markdown.png">&nbsp&nbsp&nbsp&nbsp<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">&nbsp&nbsp&nbsp&nbsp<a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"></a>&nbsp&nbsp&nbsp&nbsp<a><img src="https://img.icons8.com/nolan/64/flask.png"/></a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>&emsp;<a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/markdown.png">&nbsp&nbsp&nbsp&nbsp<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">&nbsp&nbsp&nbsp&nbsp<a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"></a>&nbsp&nbsp&nbsp&nbsp<a><img src="https://img.icons8.com/nolan/64/flask.png"/>&emsp;<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/></a>
 </p>
 
 </p>
