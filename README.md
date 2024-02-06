@@ -6,19 +6,20 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Tech**
+- 💬 Ask me about **Formula One**
 
 - ⚡ Fun fact: **I love pizza**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img src="https://img.icons8.com/windows/144/fa314a/quora.png" alt="antareep dey" height="45" width="45" />&emsp;<a href="https://t.me/ANTAREEP_DEY" target="blank"><img src="https://img.icons8.com/color/144/000000/telegram-app--v1.png" alt="antareep dey" height="45" width="45">&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://stackoverflow.com/users/16382965/antareep-dey" target="blank"><img src="https://img.icons8.com/fluency/48/000000/stackoverflow.png"></a>&nbsp&nbsp&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/antareepdey/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"></a>
+<a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img align='left' src="https://img.icons8.com/windows/144/fa314a/quora.png" alt="antareep dey" height="45" width="45" style="padding-right:10px; /><a href="https://t.me/ANTAREEP_DEY" target="blank"><img align='left' src="https://img.icons8.com/color/144/000000/telegram-app--v1.png" alt="antareep dey" height="45" width="45" style="padding-right:10px;/><a href="https://stackoverflow.com/users/16382965/antareep-dey" target="blank"><img  align='left' src="https://img.icons8.com/fluency/48/000000/stackoverflow.png" style="padding-right:10px;/></a><a href="https://www.linkedin.com/in/antareepdey/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin-circled.png"></a>
 </p>
 
 <h3 align="left">Languages and Frameworks: </h3>
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>&emsp;<a href="https://www.markdownguide.org/" target="_blank"><img src="https://img.icons8.com/nolan/48/markdown.png">&nbsp&nbsp&nbsp&nbsp<a href="https://www.mysql.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/mysql-logo.png">&nbsp&nbsp&nbsp&nbsp<a href="https://html.spec.whatwg.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"></a>&nbsp&nbsp&nbsp&nbsp<a><img src="https://img.icons8.com/nolan/64/flask.png"/>&emsp;<img width="48" height="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="c-plus-plus-logo"/></a>
+<!--   <a target="_blank"> <img width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" style="padding-right:10px;" /> -->
 </p>
 
 </p>
@@ -28,7 +29,6 @@
 
 <p align="centre">
 <a href="https://github.com/AntareepDey">
-  <img  align="left" height="180"  width="410"  src="https://github-readme-stats-eight-theta.vercel.app/api?username=AntareepDey&show_icons=true&theme=gotham&hide_border=true&count_total=true"/>
-  
+  <img  align="left" height="180"  src="https://github-readme-stats.vercel.app/api?username=AntareepDey&show_icons=true&theme=gotham&hide_border=true&count_total=true&hide_rank=true&show=prs_merged&hide=issues"/>
 </a>
 </p>
