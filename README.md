@@ -15,26 +15,37 @@
 <a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img align='left' src="https://cdn.simpleicons.org/quora/#B92B27" alt="antareep dey" width="32" style="padding-right:10px;"/></a><a href="https://t.me/ANTAREEP_DEY" target="blank"><img align='left' src="https://cdn.simpleicons.org/telegram/#26A5E4" alt="antareep dey"  width="32" style="padding-right:10px;"/><a href="https://www.linkedin.com/in/antareepdey/" target="blank"><img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/></a>                                             
 </p>
 <br>
-<h3 align="left">Languages and Frameworks: </h3>
+<br>
+<h3 align="left">Languages and Libraries: </h3>
 <p align="left">
 <img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" style="margin-right:5px;"/>
-<img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c-plus-plus-logo" style="padding-right:5px;"/>
-<img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java-logo" style="padding-right:5px;"/>
-
-<img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"  alt="my-sql-logo" style="padding-right:5px;" />
-
-<img align="left" width="38" src="https://cdn.simpleicons.org/flask/#FF6F00" style="padding-right:5px;"/>
-<img align="left" width="38" src="https://cdn.simpleicons.org/tensorflow/#FF6F00" alt="tensorflow" style="padding-right:5px;" />
+<img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="c++" style="padding-right:5px;"/>
+<img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" style="padding-right:5px;"/>
+<img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="my-sql" style="padding-right:5px;" />
+<img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" style="padding-right:5px;"/>
+<img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="numpy" style="padding-right:5px;"/>
+<img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" style="padding-right:5px;"/>
+<!-- <img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" style="padding-right:5px;" /> -->
+<!-- <img align="left" width="38" src="https://cdn.simpleicons.org/flask/#FF6F00" style="padding-right:5px;"/> -->
+<!-- <img align="left" width="38" src="https://cdn.simpleicons.org/tensorflow/#FF6F00" alt="tensorflow" style="padding-right:5px;" /> -->
+<!-- <img align="left" width="38" src="https://cdn.simpleicons.org/pytorch/#EE4C2C" alt="pytorch" style="padding-right:5px;" /> -->
+<!-- <img align="left" width="38" src="https://cdn.simpleicons.org/astro/#BC52EE" alt="astro" style="padding-right:5px;" /> -->
 </p>
 <br>
 </p>
 <h3 align="left">Software and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/figma.png">&nbsp&nbsp<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp&nbsp<a href="https://www.photoshop.com/en" target="_blank">&nbsp&nbsp<img src="https://img.icons8.com/fluent/144/000000/adobe-photoshop.png" alt="photoshop" width="50" height="50"/>&nbsp&nbsp<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/144/000000/visual-studio-code-2019.png" width="50" height="50"/></a>
+<p align="left">
+<img align="left" width="38" src="https://cdn.simpleicons.org/jupyter/#F37626" alt="jupyter_notebook" style="margin-right:5px;"/>
+<img align="left" width="38" src="https://cdn.simpleicons.org/googlecolab/#F9AB00" alt="google_colab" style="margin-right:5px;"/>
+<img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="figma" style="padding-right:5px;"/>
+<img align="left" width="38" src="https://cdn.simpleicons.org/visualstudiocode/#007ACC" alt="vscode" style="padding-right:5px;" />
+<img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" alt="notion" style="padding-right:5px;"/>
 </p>
-
+<br>
+<h3 align="left">Statistics:</h3>
 <p align="centre">
 <a href="https://github.com/AntareepDey">
   <img  align="left" height="180"  src="https://github-readme-stats.vercel.app/api?username=AntareepDey&show_icons=true&theme=gotham&hide_border=true&count_total=true&hide_rank=true&show=prs_merged&hide=issues"/>
 </a>
 </p>
-<!-- <script src="https://cdn.jsdelivr.net/npm/simple-icons@11.3.0/index.min.js"></script> -->
+<!
