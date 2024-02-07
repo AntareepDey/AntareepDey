@@ -1,14 +1,14 @@
-<h1 align="center">Hello 🌏, I am Antareep Dey</h1>
-<h3 align="center">I'm a college Sophomore from India majoring in CS </h3>
-<img align="right" alt="GIF" src="https://github.com/AntareepDey/AntareepDey/blob/main/dp2.gif" width="400" height="300" />
+<h1 align="center">Hello 🌏, I am Antareep Dey</h2>
+<h3 align="center"> A CS sophomore whose brain runs on caffeine and curiosity  </h3>
+<img align="right" alt="GIF" src="https://github.com/AntareepDey/AntareepDey/blob/main/ezgif-4-13ffbb59e2.gif" width="450" height="270" />
 
-- 🔭 I’m currently working on **Personal projects**  
+🔭 I’m currently working on **Personal projects**  
 
-- 🌱 I’m currently learning **Data Science**
+🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Formula One**
+💬 Ask me about **Formula One**
 
-- ⚡ Fun fact: **I love pizza**
+⚡ Fun fact: **I love pizza**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
