@@ -1,5 +1,4 @@
 <h1 align="center">Hello 🌏, I am Antareep Dey</h2>
-<h3 align="center"> A CS sophomore whose brain runs on caffeine and curiosity  </h3>
 <img align="right" alt="GIF" src="https://github.com/AntareepDey/AntareepDey/blob/main/ezgif-4-13ffbb59e2.gif" width="450" height="265" style="padding: 10px 3px 10px 3px;" />
 
 🔭 I’m currently working on **Personal projects**  
