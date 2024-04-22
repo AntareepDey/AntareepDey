@@ -29,11 +29,12 @@
   
   <p align="left">
     <img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="pandas" style="padding-right:5px;"/>
+    <img align="left" width="38" src="https://cdn.simpleicons.org/pytorch/#EE4C2C" alt="pytorch" style="padding-right:5px;" />
 <!--     <img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" alt="opencv" style="padding-right:5px;"/>
     <img align="left" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" style="padding-right:5px;" />
     <img align="left" width="38" src="https://cdn.simpleicons.org/flask/#FF6F00" style="padding-right:5px;"/>
     <img align="left" width="38" src="https://cdn.simpleicons.org/tensorflow/#FF6F00" alt="tensorflow" style="padding-right:5px;" />
-    <img align="left" width="38" src="https://cdn.simpleicons.org/pytorch/#EE4C2C" alt="pytorch" style="padding-right:5px;" />
+    
     <img align="left" width="38" src="https://cdn.simpleicons.org/astro/#BC52EE" alt="astro" style="padding-right:5px;" /> -->
     </p>
 </section>
