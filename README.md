@@ -1,85 +1,42 @@
-<div align="center">
+<img src="assets/detect.svg" alt="Object detector output boxing Antareep Dey as researcher, developer and caffeinated" width="90%">
 
-# 👋 Hello, I'm Antareep Dey
+### About me
 
-**AI Researcher • Terminal Enthusiast • Perpetual Learner**
-</div>
+Hi, I’m Antareep Dey, a computer vision researcher interested in efficient learning algorithms. I enjoy working at the intersection of research and engineering. At the same time, I build things just for fun, whether it’s a small experiment, a side project, or an idea that I simply want to explore. 
 
-<img align="right" alt="GIF" src="https://github.com/AntareepDey/AntareepDey/blob/main/ezgif-4-13ffbb59e2.gif" width="450" height="500" />
+To know more visit my [Website](https://antareepdey.github.io).
 
-### 🧑‍💻 What I'm Up To :
+### Skills.md
+ 
+```md
+## languages
+- [x] python          
+- [x] c++            
+- [x] sql
+- [x] Bash      
 
-🔭 Currently compiling **Personal projects**  
+## Tech Stack
+- [x] Pytorch        
+- [x] Transformers, Diffusers      
+- [x] CUDA
+- [x] Slurm
+- [x] Weight&Biases
 
-🌱 I’m currently learning **Data Science**
+## Tools
+- [x] Zed IDE
+- [x] Git
+- [x] Figma
+- [x] Claude Code
 
-💬 Ask me about **Formula One** 
-
-⚡ Fun fact: I ❤️ Pizza.
-
-<br>
-<h3 align="left">📫 Reach me at:</h3>
-<p align="left">
-<a href="https://www.quora.com/profile/Antareep-Dey" target="blank"><img align='left' src="https://img.icons8.com/color/144/quora.png" alt="antareep dey" width="32" style="padding-right:10px;"/></a><a href="https://t.me/ANTAREEP_DEY" target="blank"><img align='left' src="https://img.icons8.com/color/240/telegram-app--v1.png" alt="antareep dey"  width="32" style="padding-right:10px;"/><a href="https://www.linkedin.com/in/antareepdey/" target="blank"><img align="left" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="padding-right:10px;"/></a>                                             
-</p>
-
-<br>
-<br>
-
-### 💻 Sytem Configuration :
-
-#### <code>~/.config/languages</code>
-  
-```ini
-[Core Languages]
-primary    = "Python"        # The daily driver
-compiled   = "C++"           # When performance is non-negotiable  
-enterprise = "Java"          # I Hate it!
-query      = "SQL (MySQL)"   # Data doesn't query itself
-
-[Frameworks & Libraries]
-# The usual suspects in the ML ecosystem
-pytorch       = "primary framework — dynamic graphs FTW"
-tensorflow    = "when Google says so"
-scikit-learn  = "for when you need classical ML (yes, it still exists)"
-numpy         = "the foundation of all things tensor"
-pandas        = "DataFrames >>> Excel"
-matplotlib    = "making plots that reviewers can't complain about"
+## in progress
+- [ ] Learning about Flow Matching
+- [ ] a sleep schedule
 ```
-
-#### <code>~/.local/bin/tools</code>
-
-```bash
-export EDITOR="VS Code"  # fight me
-export SHELL="bash"  # or zsh, depends on the moon phase
-export VCS="git"     #obviously
-
-TOOLS={
-"jupyter-notebooks"  # where research happens
-"vim"                # when VS Code dosen't work (rare)
-"figma"              # making diagrams for papers
-"notion"             # second brain (backup of backup)
-"tmux"               # cuz one terminal is never enough
-}
-```
-
-<br>
-<br>
-
-### Statistics :
-
-<section align="left">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AntareepDey&show_icons=true&theme=gotham&hide_border=true&count_total=true&hide_rank=true&show=prs_merged&hide=issues"/>
-  <img  height="180" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntareepDey&layout=compact&size_weight=0.5&count_weight=0.5&theme=gotham&hide_border=true"/> 
-</section>
-
-<br>
+### Stats :
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <img src="assets/stats-light.svg" alt="GitHub stats and language usage" width="80%">
+</picture>
 <div align="center">
-
-<sub>Last compiled: `October 5 , 2025` | Built with ~~tears~~ caffeine and dedication</sub>
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AntareepDey&color=blueviolet&style=plastic&label=Profile+Views" alt="Profile views"/>
+<sub>Last compiled Sep 2026, somewhere between the second and third coffee.</sub>
 </div>
