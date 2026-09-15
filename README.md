@@ -38,5 +38,5 @@ To know more visit my [Website](https://antareepdey.github.io).
   <img src="assets/stats-light.svg" alt="GitHub stats and language usage" width="90%">
 </picture>
 <div align="center">
-<sub>Last compiled Sep 2026, somewhere between my 2nd or 3rd coffee of the day.</sub>
+<sub>Last compiled Sep 2026, works on my machine </sub>
 </div>
